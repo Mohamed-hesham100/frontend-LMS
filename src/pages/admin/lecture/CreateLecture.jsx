@@ -7,7 +7,6 @@ import { useNavigate, useParams } from "react-router-dom";
 import {
   useCreateLectureMutation,
   useGetCourseLectureQuery,
-  usePublishCourseMutation,
 } from "@/features/api/courseApi";
 import { toast } from "sonner";
 import Lecture from "./Lecture";
