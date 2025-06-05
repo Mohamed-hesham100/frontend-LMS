@@ -8,7 +8,7 @@ import Sidebar from "../pages/admin/Sidebar";
 import HeroSection from "../pages/student/HeroSection";
 import Courses from "../pages/student/Courses";
 import MyLearning from "../pages/student/MyLearning";
-import Profile from "../pages/student/profile";
+import Profile from "../pages/student/Profile";
 import CourseDetails from "../pages/student/CourseDetails";
 import CourseProgress from "../pages/student/CourseProgress";
 import SearchPage from "../pages/student/SearchPage";
